@@ -5,13 +5,7 @@
 
 <div align="center">
 
-<img
-  src="https://github.com/awais-arif-webdev.png"
-  width="150"
-  height="150"
-  style="border-radius: 50%; object-fit: cover;"
-  alt="Awais Arif GitHub profile picture"
-/>
+
 
   <h1>Hi there, I'm Awais Arif 👋</h1>
 
