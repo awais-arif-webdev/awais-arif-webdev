@@ -27,7 +27,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=awais-fs-dev&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=awais-arif-webdev&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
 
