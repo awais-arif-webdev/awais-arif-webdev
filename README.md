@@ -27,7 +27,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=awais-arif-webdev&style=flat-square&color=blue" alt="Profile views" />
+  
 
 </div>
 
@@ -82,11 +82,6 @@ Portfolio Website	A personal portfolio to showcase skills and projects.	React, C
 
   <img src="https://streak-stats.demolab.com?user=awais-arif-webdev&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
 
-</div>
-
-📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awais-arif-webdev&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </div>
 
 <div align="center">
